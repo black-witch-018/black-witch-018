@@ -1,4 +1,4 @@
-![logo](https://github.com/jaagrit13/jaagrit13/blob/a816d899d6d09a092c530eab9f36450e2bbf64bd/data-scientist-word-banner-vector.jpg)
+![MasterHead](https://user-images.githubusercontent.com/86153190/180595867-8ba21e63-0cbc-46fc-a186-c749f56d921e.jpg)
 <h1 align="center">Hi 👋, I'm Jaagrit</h1>
 <h3 align="center">An Aspiring Data Scientist from India</h3>
 
