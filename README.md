@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1pQSWH0wxtpaI9tbBHlFypqkmpF17a_u9/view?usp=sharing)](jaagrit13.io)
+[![MasterHead](https://drive.google.com/file/d/1pQSWH0wxtpaI9tbBHlFypqkmpF17a_u9/view?usp=sharing)]
 <h1 align="center">Hi 👋, I'm Jaagrit</h1>
 <h3 align="center">An Aspiring Data Scientist from India</h3>
 
