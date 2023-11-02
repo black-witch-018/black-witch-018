@@ -48,8 +48,10 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) -->
+![image](https://komarev.com/ghpvc/?username=jaagrit13&label=Profile%20views&color=0e75b6&style=flat-square)
 
 ---
+
 
 <table>
   <tr>
