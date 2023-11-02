@@ -5,9 +5,9 @@
 
 ## Aspiring Data Scientist
 
-<!-- -   👯 Would love to collaborate on the *Web Development* projects -->
+-   👯 Would love to collaborate on the *Python or Data Science projects*
 -   🎯 Currently working on *Statistics & Machine Learning*
-<!-- -   🌱 Want to learn *Everything* -->
+-   🌱 Want to learn *AI/ML*
 -   💬 Ask me about *Programming* related queries
 
 <!--
