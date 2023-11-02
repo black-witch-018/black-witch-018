@@ -1,9 +1,10 @@
+![MasterHead](https://static.vecteezy.com/system/resources/previews/001/759/768/non_2x/data-scientist-word-banner-vector.jpg)
 # Hey There 👋
 
 ## BE - CSE Student
 
 <!-- -   👯 Would love to collaborate on the *Web Development* projects -->
--   🎯 Currently working on *JAVA & Python*
+-   🎯 Currently working on *Statistics & Machine Learning*
 <!-- -   🌱 Want to learn *Everything* -->
 -   💬 Ask me about *Programming* related queries
 
