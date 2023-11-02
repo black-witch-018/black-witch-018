@@ -2,7 +2,7 @@
 ![MasterHead](https://github.com/jaagrit13/jaagrit13/blob/main/data-scientist-word-banner-vector%20(1).png)
 # Hey There 👋
 
-## BE - CSE Student
+## Aspiring Data Scientist
 
 <!-- -   👯 Would love to collaborate on the *Web Development* projects -->
 -   🎯 Currently working on *Statistics & Machine Learning*
