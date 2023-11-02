@@ -1,5 +1,6 @@
 <!-- ![MasterHead](https://static.vecteezy.com/system/resources/previews/001/759/768/non_2x/data-scientist-word-banner-vector.jpg) -->
-![MasterHead](https://github.com/jaagrit13/jaagrit13/blob/main/data-scientist-word-banner-vector%20(1).png)
+<!-- ![MasterHead](https://github.com/jaagrit13/jaagrit13/blob/main/data-scientist-word-banner-vector%20(1).png) -->
+![MasterHead](https://github.com/jaagrit13/jaagrit13/blob/main/banner.png)
 # Hey There 👋
 
 ## Aspiring Data Scientist
@@ -56,15 +57,15 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=jaagrit13&show_icons=true&locale=en" />
+      <img src="https://github-readme-stats.vercel.app/api?username=jaagrit13&show_icons=true&locale=en&theme=prussian" />
     </td>
     <td rowspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaagrit13&langs_count=8" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaagrit13&langs_count=8&theme=prussian" />
     </td>
   <tr>
     <td>
       <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaagrit13&theme=prussian" /> -->
-      <img src = "https://github-readme-streak-stats.herokuapp.com/?user=jaagrit13">
+      <img src = "https://github-readme-streak-stats.herokuapp.com/?user=jaagrit13&theme=prussian">
     </td>
   </tr>
 </table>
