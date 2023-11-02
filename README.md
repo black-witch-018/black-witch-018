@@ -8,12 +8,20 @@
 <!-- -   🌱 Want to learn *Everything* -->
 -   💬 Ask me about *Programming* related queries
 
+<!--
 -   📫 Connect with me on &nbsp; [![image](https://img.shields.io/badge/JAAGRIT-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaagrit1305)
 -   ![image](https://komarev.com/ghpvc/?username=jaagrit13&label=Profile%20views&color=0e75b6&style=flat-square)
 -   ![Badge](https://cp-logo.vercel.app/codechef/black_witch)
-(https://www.codechef.com/users/black_witch)
+(https://www.codechef.com/users/black_witch) -->
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/jaagrit1305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaagrit1305" height="30" width="40" /></a>
+<a href="https://instagram.com/jaagrit_1305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaagrit_1305" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/black_witch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="black_witch" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/black_witch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="black_witch" height="30" width="40" /></a>
+<a href="https://discord.gg/black_witch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="black_witch" height="30" width="40" /></a>
+</p>
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -45,15 +53,15 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=jaagrit13&show_icons=true&locale=en&theme=prussian" />
+      <img src="https://github-readme-stats.vercel.app/api?username=jaagrit13&show_icons=true&locale=en" />
     </td>
     <td rowspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaagrit13&langs_count=8&theme=prussian" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaagrit13&langs_count=8" />
     </td>
   <tr>
     <td>
       <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaagrit13&theme=prussian" /> -->
-      <img src = "https://github-readme-streak-stats.herokuapp.com/?user=jaagrit13&theme=prussian">
+      <img src = "https://github-readme-streak-stats.herokuapp.com/?user=jaagrit13">
     </td>
   </tr>
 </table>
