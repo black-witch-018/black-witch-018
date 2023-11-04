@@ -88,3 +88,4 @@
 <!-- ![image](https://github-readme-streak-stats.herokuapp.com/?user=aaryan-gupta&theme=radical) -->
 
 <!-- ![Jaagrit's github activity graph](https://activity-graph.herokuapp.com/graph?username=jaagrit13&theme=react-dark&area=true) -->
+[![Jaagrit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jaagrit13&theme=react-dark)](https://github.com/jaagrit13/github-readme-activity-graph)
