@@ -1,7 +1,7 @@
 <!-- ![MasterHead](https://static.vecteezy.com/system/resources/previews/001/759/768/non_2x/data-scientist-word-banner-vector.jpg) -->
 <!-- ![MasterHead](https://github.com/jaagrit13/jaagrit13/blob/main/data-scientist-word-banner-vector%20(1).png) -->
-![MasterHead](https://github.com/jaagrit13/jaagrit13/blob/main/data-scientist-word-banner-vector%20(1).png) 
-<!-- ![MasterHead](https://github.com/jaagrit13/jaagrit13/blob/main/banner%20(1).png) -->
+<!-- ![MasterHead](https://github.com/jaagrit13/jaagrit13/blob/main/data-scientist-word-banner-vector%20(1).png) -->
+![MasterHead](https://github.com/jaagrit13/jaagrit13/blob/main/banner%20(1).png) 
 # Hey There 👋
 
 ## Aspiring Data Scientist
