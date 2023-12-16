@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jaagrit1305" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="jaagrit1305" /></a>
-<a href="https://instagram.com/jaagrit_1305" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="jaagrit_1305"/></a>
+<a href="https://instagram.com/black_witch_018" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="black_witch_018"/></a>
 <a href="https://discord.gg/black_witch" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="black_witch" /></a>
 <!-- <a href="[Kaggle Profile]" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="black_witch" /></a> -->
 <a href="https://www.codechef.com/users/black_witch" target="blank"><img align="center" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/></a>
@@ -64,7 +64,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 -->
-![image](https://komarev.com/ghpvc/?username=jaagrit13&label=Profile%20views&color=0e75b6&style=flat-square)
+![image](https://komarev.com/ghpvc/?username=black-witch-018&label=Profile%20views&color=0e75b6&style=flat-square)
 
 ---
 
@@ -72,15 +72,15 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=jaagrit13&show_icons=true&locale=en&theme=prussian" />
+      <img src="https://github-readme-stats.vercel.app/api?username=black-witch-018&show_icons=true&locale=en&theme=prussian" />
     </td>
     <td rowspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaagrit13&langs_count=8&theme=prussian" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=black-witch-018&langs_count=8&theme=prussian" />
     </td>
   <tr>
     <td>
       <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaagrit13&theme=prussian" /> -->
-      <img src = "https://github-readme-streak-stats.herokuapp.com/?user=jaagrit13&theme=prussian">
+      <img src = "https://github-readme-streak-stats.herokuapp.com/?user=black-witch-018&theme=prussian">
     </td>
   </tr>
 </table>
@@ -89,4 +89,4 @@
 <!-- ![image](https://github-readme-streak-stats.herokuapp.com/?user=aaryan-gupta&theme=radical) -->
 
 <!-- ![Jaagrit's github activity graph](https://activity-graph.herokuapp.com/graph?username=jaagrit13&theme=react-dark&area=true) -->
-[![Jaagrit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jaagrit13&theme=react-dark)](https://github.com/jaagrit13/github-readme-activity-graph)
+[![Jaagrit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=black-witch-018&theme=react-dark)](https://github.com/jaagrit13/github-readme-activity-graph)
