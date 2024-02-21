@@ -75,15 +75,15 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=black-witch-018&show_icons=true&locale=en&theme=material-palenight" />
+      <img src="https://github-readme-stats.vercel.app/api?username=black-witch-018&show_icons=true&locale=en&theme=tokyonight" />
     </td>
     <td rowspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=black-witch-018&langs_count=8&theme=material-palenight" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=black-witch-018&langs_count=8&theme=tokyonight" />
     </td>
   <tr>
     <td>
       <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaagrit13&theme=tokyonight" /> -->
-      <img src = "https://github-readme-streak-stats.herokuapp.com/?user=black-witch-018&theme=material-palenight">
+      <img src = "https://github-readme-streak-stats.herokuapp.com/?user=black-witch-018&theme=tokyonight">
     </td>
   </tr>
 </table>
