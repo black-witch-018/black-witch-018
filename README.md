@@ -75,15 +75,15 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=black-witch-018&show_icons=true&locale=en&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api?username=black-witch-018&show_icons=true&locale=en&theme=jolly" />
     </td>
     <td rowspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=black-witch-018&langs_count=8&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=black-witch-018&langs_count=8&theme=jolly" />
     </td>
   <tr>
     <td>
       <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaagrit13&theme=tokyonight" /> -->
-      <img src = "https://github-readme-streak-stats.herokuapp.com/?user=black-witch-018&theme=tokyonight">
+      <img src = "https://github-readme-streak-stats.herokuapp.com/?user=black-witch-018&theme=jolly">
     </td>
   </tr>
 </table>
@@ -92,4 +92,5 @@
 <!-- ![image](https://github-readme-streak-stats.herokuapp.com/?user=aaryan-gupta&theme=radical) -->
 
 <!-- ![Jaagrit's github activity graph](https://activity-graph.herokuapp.com/graph?username=jaagrit13&theme=react-dark&area=true) -->
-[![Jaagrit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=black-witch-018&theme=material-palenight)](https://github.com/jaagrit13/github-readme-activity-graph)
+<!-- [![Jaagrit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=black-witch-018&theme=redical)](https://github.com/jaagrit13/github-readme-activity-graph)-->
+[![Jaagrit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=black-witch-018&bg_color=3f2558&color=ec63ef&line=d753ca&point=ff0080&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
