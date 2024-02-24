@@ -93,4 +93,4 @@
 
 <!-- ![Jaagrit's github activity graph](https://activity-graph.herokuapp.com/graph?username=jaagrit13&theme=react-dark&area=true) -->
 <!-- [![Jaagrit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=black-witch-018&theme=redical)](https://github.com/jaagrit13/github-readme-activity-graph)-->
-[![Jaagrit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=black-witch-018&bg_color=1e0433&color=ef678d&line=d759f4&point=F88379&area=true)](https://github.com/black-witch-018/github-readme-activity-graph)
+[![Jaagrit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=black-witch-018&bg_color=1e0433&color=ffffff&line=d759f4&point=F88379&area=true)](https://github.com/black-witch-018/github-readme-activity-graph)
